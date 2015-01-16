@@ -1,4 +1,4 @@
-Health ministry Redmine Theme based on Pixel Cookers Theme
+Pixel Cookers Redmine Theme
 ===========================
 
 [Pixel Cookers](http://pixel-cookers.github.com/redmine-theme/) is a nice, dark and blue theme for [Redmine](http://www.redmine.org).
